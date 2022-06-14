@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @jaelzamora, Junior Frontend Developer
-- 👀 I’m interested in programming, frontend frameworks { Angular } and layout design.
-- 🌱 I’m currently learning Angular 13
-- 💞️ I’m looking to collaborate on big and ambicious projects with incredible design.
-- 📫 You can contact me by mail: thejaelza@gmail.com
+# Hey There!
 
-<!---
-jaelzamora/jaelzamora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Jael. I'm a frontend developer and designer, interested in new developments with interesting front implementations. I'm currently working in a huge Real State project as a medior Angular develper. Always searching for new challenges!
+
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,scss,css,git,github,gitlab,ps,vscode,jquery)](https://skillicons.dev)
+
+<h4>📫 You can contact me by mail: <a href="mailto:thejaelza@gmail.com"</a>thejaelza@gmail.com</h4>
+
